@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">software developer with focus on correct, performant and elegant code</h3>
+<h3 align="center">Maths / CS Software developer with focus on correct, performant and elegant code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanshi42&label=Profile%20views&color=0e75b6&style=flat" alt="ryanshi42" /> </p>
 
