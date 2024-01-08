@@ -7,7 +7,7 @@
 
 - 👯 In my spare time, I try to dig down new avenues with the **Rust** programming language, and would be especially keen on getting my hands dirty with any async Rust / tokio!
 
-- 💬 Within the world of maths, I'm particularly interested in **functional analysis, anything to do with topological spaces, measure theory, and time series!** In the world of computer science, I have very limited experience with frontend and am now looking to explore more within the realms of **embedded systems, operating systems and performance engineering!**
+- 💬 Within the world of maths, I'm particularly interested in **functional analysis, anything to do with topological spaces, measure theory, and time series!** In the world of computer science, I have some limited experience with frontend, machine learning (ARIMA, SARIMA, time series models) and networks, and am now looking to explore more within the realms of **embedded systems, operating systems and performance engineering!**
 
 - 📫 You can reach me anytime at **ryan.shi42@gmail.com**.
 
