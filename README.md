@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a SD card driver for the Odroid C4](https://github.com/ryanshi42/OdroidC4-SD-Device-Driver), with the eventual goal of designing a performant file system that fits into the SDDF for the Lions OS, an operating system built on top of the seL4 ecosystem.
 
-- 👯 In my spare time, I try to dig down new avenues with the **Rust** programming language, and would be especially keen on getting my hands dirty with any async Rust / tokio!
+- 👯 In my spare time, I like learning about the **Rust** programming language, and would be especially keen on getting my hands dirty with any async Rust / tokio in the near future!
 
 - 💬 Within the world of maths, I'm particularly interested in **functional analysis, anything to do with topological spaces, measure theory, and time series!** In the world of computer science, I have some limited experience with frontend, machine learning (ARIMA, SARIMA, time series models) and networks, and am now looking to explore more within the realms of **embedded systems, operating systems and performance engineering!**
 
