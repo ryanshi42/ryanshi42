@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- General Programming : C, C++, Python, Javascript / Typescript, Haskell, Java, Rust, Golang, Bash, Linux, data structures and algorithms -->
-<!-- Web development : ReactJS, VueJS, NodeJS + Express, SolidJS, REST API, Flask, Django, HTML, CSS, Bootstrap, Material UI -->
+<!-- Web development : ReactJS, VueJS, NodeJS + Express, SolidJS, REST API, Flask, Django, HTML, CSS, Bootstrap, Material UI, Tailwind, SCSS,  -->
 <!-- Discord Bots : Rocket !-->
 <!-- Data-related technologies : PostgresSQL, NoSQL, MongoDB + Mongoose -->
 <!-- Cloud computing and DevOps : Caddy, Jest, Cypress, Docker -->
